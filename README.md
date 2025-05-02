@@ -1,1 +1,1 @@
-MOM6 Diagnostics Package
+#MOM6 Diagnostics Package
